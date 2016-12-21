@@ -29,6 +29,7 @@ To get started with Free Java Bootcamp, here is a list of basic prerequisites yo
 If you do have these basic prerequisites, then lets get into setting up your computer with the necessary requirements to write and deploy your Java code.
 
 ### Set Up
+---
 
 #### Command Line
 
