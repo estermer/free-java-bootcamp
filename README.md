@@ -11,6 +11,7 @@ Free Java Bootcamp is an open source project designed to teach complete beginner
     * [Git](#git)
     * [Text Editor](#text-editor)
     * [JDK and JRE](#java)
+    * [Download Course](#download-the-course)
   - [Contributors](#contributors)
   
 ## Getting Started
@@ -89,6 +90,14 @@ Again, You will select `Accept License Agreement`
 Then you will download the product for the type of operating system you have.
 
 [Click here to find out what operating system you have.](http://support.hubris.net/knowledge_base/006.php)
+
+#### Download The Course
+
+Now that you have the basic environment set up, we can now download the course to get started.
+
+First you need to "Fork" this repository. You can do this by clicking on the for button on the top right hand corner of this page.
+
+![Fork Repo](/img/fork.png)
 
 ## Contributors
 
