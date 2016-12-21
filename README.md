@@ -6,12 +6,12 @@ Free Java Bootcamp is an open source project designed to teach complete beginner
 
 ## Table of Contents
 
-  - Getting Started
-    * Command Line
-    * Git
-    * Text Editor
-    * JDK and JRE
-  - Contributors
+  - [Getting Started](#getting-started)
+    * [Command Line](#command-line)
+    * [Git](#git)
+    * [Text Editor](#text-editor)
+    * [JDK and JRE](#java)
+  - [Contributors](#contributors)
   
 ## Getting Started
 
