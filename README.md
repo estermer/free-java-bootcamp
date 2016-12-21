@@ -24,7 +24,7 @@ To get started with Free Java Bootcamp, here is a list of basic prerequisites yo
   - Know how to search using Google (or another search engine of your choice)
   - Basic algebra skills (to understand variables, sets/arrays, and operations)
   
-If you do not have these skills, please take some time to brush up on them before you start to learn any programming language. Even if you are not looking to become a software engineer who writes intensely complicated algorithms, you need these basic skills to solve problems and be resourceful.
+***If you do not have these skills, please take some time to brush up on them before you start to learn any programming language. Even if you are not looking to become a software engineer who writes intensely complicated algorithms, you need these basic skills to solve problems and be resourceful.
 
 If you do have these basic prerequisites, then lets get into setting up your computer with the necessary requirements to write and deploy your Java code.
 
