@@ -89,3 +89,19 @@ Again, You will select `Accept License Agreement`
 Then you will download the product for the type of operating system you have.
 
 [Click here to find out what operating system you have.](http://support.hubris.net/knowledge_base/006.php)
+
+## Contributors
+
+#### Instructions For Contributing
+
+If you would like to contribute to this project, you will need to first fork this repository.
+
+Next, check out the [issues](https://github.com/estermer/free-java-bootcamp/issues) here on the [main repo](https://github.com/estermer/free-java-bootcamp) to find out what our needs are.
+
+If you find an issue that you would like to help out with, assign yourself to the issue and get started making the changes to your forked version of the repo.
+
+Once you have completed your changes, commit them, then submit a pull request and we will review the changes to be merged to the main repo.
+
+#### Contributors List
+
+  - [Eric Stermer](https://github.com/estermer) Creator
