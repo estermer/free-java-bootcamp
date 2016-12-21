@@ -1,4 +1,5 @@
-# Free Java Bootcamp
+# Free Java Bootcamp 
+![Java Logo](img/java-logo.png)
 
 ## Welcome
 
