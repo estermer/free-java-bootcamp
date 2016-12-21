@@ -4,6 +4,18 @@
 
 Free Java Bootcamp is an open source project designed to teach complete beginners how to code in the Java programming language.
 
+Java is a very popular coding language that is used in all sorts of industries for application development, mobile app development, and web development.
+
+Java is also a common language that Computer Science students learn when going through their Computer Science Degrees.
+
+So if you are looking to learn to code for the first time, broaden your skills, brush up on the language, or prep for college courses, then this course is for you!
+
+**ATTENTION**
+
+If you are a programmer and know a little about the set up and basic coding concepts, please forgive me for writing in a manner that treats you like a complete beginner. This course is meant to be for complete beginners.
+
+Also, this course can be done at your own pace, so if you wish to move on from something sooner, your are more than welcome to move on.
+
 ## Table of Contents
 
   - [Getting Started/Set Up](#getting-started)
