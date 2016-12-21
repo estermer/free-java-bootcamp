@@ -47,6 +47,8 @@ If you do have these basic prerequisites, then lets get into setting up your com
 
 #### Command Line
 
+![Bash Logo](img/bash-logo.png)
+
 The command line is a programmers fort. This is where programmers navigate their computer's files, download programs, run servers, and run their code. 
 
 Becoming familiar with where your terminal is and how to get around it would benefit you greatly in becoming a good programmer as well as getting through this course.
@@ -63,6 +65,8 @@ Here is a list of command line tutorials if you want to take some time to famili
   
 #### Git
 
+![Git Logo](img/git-logo.jpg)
+
 Git is a version controll system, one of many, but the most popular. 
 
 Assuming since your on GitHub for this course, you already have git installed. But to assume makes an ass(outa)u(and)me.
@@ -70,6 +74,8 @@ Assuming since your on GitHub for this course, you already have git installed. B
 So download [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) if you have not already done so.
 
 #### Text Editor
+
+![Atom Logo](img/atom-logo.png) ![Sublime Logo](img/sublime-logo.png)
 
 A text editor is an application where you will actually write your code.
 
@@ -81,6 +87,8 @@ I personally use Atom.
 [Download Sublime Text](https://www.sublimetext.com/3)
 
 #### Java
+
+![Oracle Logo](img/oracle-logo.png)
 
 Obviously if this is a course in Java we are going to need the tools to actually run Java code.
 
