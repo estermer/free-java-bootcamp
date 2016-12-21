@@ -7,6 +7,10 @@ Free Java Bootcamp is an open source project designed to teach complete beginner
 ## Table of Contents
 
   - Getting Started
+    * Command Line
+    * Git
+    * Text Editor
+    * JDK and JRE
   - Contributors
   
 ## Getting Started
@@ -40,7 +44,7 @@ Here is a list of command line tutorials if you want to take some time to famili
   - [Learn Enough To Be Dangerous](https://www.learnenough.com/command-line-tutorial)
   - [Learn Command Line The Hard Way](https://learncodethehardway.org/unix/)
   - [LifeHacker](http://lifehacker.com/5633909/who-needs-a-mouse-learn-to-use-the-command-line-for-almost-anything)
-  ^Pick one, no need to do them all you just need a primer
+  - ^Pick one, no need to do them all you just need a primer
   
 #### Git
 
